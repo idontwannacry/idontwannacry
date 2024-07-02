@@ -1,16 +1,12 @@
-## Hi there 👋
+```
+   _    __          __                                         
+  (_)__/ /__  ___  / /__    _____ ____  ___  ___ ___________ __
+ / / _  / _ \/ _ \/ __/ |/|/ / _ `/ _ \/ _ \/ _ `/ __/ __/ // /
+/_/\_,_/\___/_//_/\__/|__,__/\_,_/_//_/_//_/\_,_/\__/_/  \_, / 
+                                                        /___/  
+```                                                        
+Hi, my name is Sasha 👋 , but I prefer to be called c1zzs 😎 . I'm 17 years old, originally from Dnepr, Ukraine .Im a beginner programmer, and my stack pool is not large, but im learning. 🥰
 
-<!--
-**idontwannacry/idontwannacry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I speak Russian, Ukrainian, English and am learning Japanese.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+telegram - @abalmasov0 🔥
