@@ -9,4 +9,4 @@ Hi, my name is Sasha 👋 , but I prefer to be called idontwannacry 😎 . I'm 1
 
 I speak Russian, Ukrainian, English and am learning Japanese.
 
-telegram - @abalmasov0 🔥
+telegram - @idontwannatocry 🔥
