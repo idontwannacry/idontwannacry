@@ -7,6 +7,5 @@
 ```                                                        
 Hi, my name is Sasha 👋 , but I prefer to be called idontwannacry 😎 . I'm 18 years old, originally from Dnepr, Ukraine .Im a beginner programmer, and my stack pool is not large, but im learning. 🥰
 
-I speak Russian, Ukrainian, English and am learning Japanese.
-
-telegram - @idontwannatocry 🔥
+I speak Russian, Ukrainian, English
+telegram - @noserenityx 🔥
